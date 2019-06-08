@@ -6,7 +6,7 @@ using System.Linq;
 namespace FileSearchAndReplace
 {
     /// <summary>
-    /// Find and replace string in every TXT files in a directory
+    /// Find and replace string in every TXT files in a directory 
     /// Github: PaulMCheng
     /// @2019
     /// </summary>
