@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSearchAndReplace", "FileSearchAndReplace\FileSearchAndReplace.csproj", "{BB128C0A-A703-4E33-9475-78A2D192874A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSearchAndReplaceTests", "FileSearchAndReplaceTests\FileSearchAndReplaceTests.csproj", "{866C297F-0CAB-4CFA-A9E9-189806477B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB128C0A-A703-4E33-9475-78A2D192874A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB128C0A-A703-4E33-9475-78A2D192874A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB128C0A-A703-4E33-9475-78A2D192874A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB128C0A-A703-4E33-9475-78A2D192874A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866C297F-0CAB-4CFA-A9E9-189806477B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866C297F-0CAB-4CFA-A9E9-189806477B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866C297F-0CAB-4CFA-A9E9-189806477B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866C297F-0CAB-4CFA-A9E9-189806477B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5028F7-7FBB-44E1-B41F-71B3CA0489B7}
+	EndGlobalSection
+EndGlobal
